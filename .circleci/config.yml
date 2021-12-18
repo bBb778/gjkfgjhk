@@ -1,4 +1,3 @@
-
 version: 2.1
 jobs:
     Devop:
@@ -37,5 +36,3 @@ workflows:
             - Devop1
             - Devop2
             - Devop3
-144CPU.txt
-Displaying 144CPU.txt.
